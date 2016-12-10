@@ -3705,6 +3705,12 @@ public final class Settings {
          */
         public static final String STATUS_BAR_SHOW_WEATHER = "status_bar_show_weather";
 
+          /**
+          * Whether to show the negociated charger current in the lockscreen
+          * @hide
+          */
+         public static final String LOCKSCREEN_CHARGING_CURRENT = "lockscreen_charging_current";
+ 
         /**
           * Volume keys control cursor in text fields (default is 0)
           * 0 - Disabled
